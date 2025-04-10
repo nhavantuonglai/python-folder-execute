@@ -1,0 +1,40 @@
+{
+	"name": "folder-execute",
+	"version": "1.0.1",
+	"description": "File and Folder Transfer Tool (FFT) is a Python tool designed to automate the process of copying or moving files and folders between two directories.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+
+	"keywords": [
+		"npm",
+		"css",
+		"folder",
+		"datetime",
+		"folder editor",
+		"folder execute",
+		"execute",
+		"editor",
+		"class",
+		"python script",
+		"python",
+		"python3",
+		"python 3",
+		"nhavantuonglai"
+	],
+
+	"repository": {
+		"type": "website",
+		"url": "https://nhavantuonglai.com"
+	},
+
+	"author": "nhavantuonglai",
+	"license": "MIT",
+	"dependencies": {
+	},
+	"engines": {
+		"node": ">=14.0.0"
+	}
+}
