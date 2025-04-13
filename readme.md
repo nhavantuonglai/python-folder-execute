@@ -9,7 +9,7 @@ _File and folder transfer (FFT) is a Python tool designed to automate the proces
 To install, clone this repository and run the Python script directly:
 
 ```
-npm install folder-attribute
+npm install folder-execute
 ```
 
 No additional dependencies are required beyond the Python standard library.
@@ -69,7 +69,7 @@ _Công cụ chuyển tệp và thư mục (FFT) là một tiện ích Python t�
 Để cài đặt, sao chép repository này và chạy trực tiếp script Python:
 
 ```
-npm install folder-attribute
+npm install folder-execute
 ```
 
 Không yêu cầu thêm thư viện phụ thuộc ngoài thư viện chuẩn của Python.
